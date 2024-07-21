@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* font-family: sans-serif; */
+}
+
+/* body{
+    background: url(https://static.vecteezy.com/system/resources/previews/004/941/847/original/cosmetic-background-for-product-branding-and-packaging-presentation-geometry-form-circle-molding-on-podium-stage-with-shadow-of-leaf-background-design-eps10-vector.jpg) no-repeat;
+    background-size: cover;
+    color: #fff;
+}
+
+.registration-form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% ,-50%);
+    width: 300px;
+
+}
+
+.registration-form h1{
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 40px 0;
+}
+
+.registration-form p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+
+.registration-form input{
+    font-size: 16px;
+    padding: 15px 10px ;
+    width: 100%;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+}
+
+.registration-form button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    width: 50%;
+    border: 0;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.registration-form button:hover{
+    color: red;
+} */
+
+
+.container{
+    background-color: #e5e5fd;
+    min-height: 100vh;
+    border: 10px solid #1d1e4c;
+}
+
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.top_section{
+    margin: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.top_section h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: #1d1e4c;
+    text-transform: uppercase;
+}
+
+.top_section h4{
+    font-size: 30px;
+    text-align: end;
+
+}
+
+.img_container{
+    margin-top: 5%;
+    border-radius: 450%;
+    overflow: hidden;
+}
+
+.img_container,
+img{
+    width: 300px;
+    height: 320px;
+}
+
+.about_section{
+    margin-top: 50px;
+}
+
+.about_section h2{
+    font-size: 70px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.about_section p{
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    text-align: justify;
+}
+
+.Fourteen_section{
+    margin: 50px 0;
+}
+
+.Fourteen_section h3{
+    margin-bottom: 20px;
+}
+
+.Fourteen_section ul{
+    margin-left: 50px;
+}
+
+.Fourteen_section li{
+    margin-bottom: 15px;
+}
+
+footer{
+    margin: 50px 0;
+}
+
+footer p{
+    text-align: end;
+}
